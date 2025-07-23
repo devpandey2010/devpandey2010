@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Dev!
 
-![Banner](http://googleusercontent.com/image_generation_content/0)
 
 🎓 Chemical Engineering undergrad | 🧠 AI/ML Enthusiast | 📊 Data Science Explorer  
 🔍 Currently diving into Generative AI, NLP, and Deep Learning  
