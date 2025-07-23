@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Dev!
 
+![Banner](http://googleusercontent.com/image_generation_content/0)
+
 🎓 Chemical Engineering undergrad | 🧠 AI/ML Enthusiast | 📊 Data Science Explorer  
 🔍 Currently diving into Generative AI, NLP, and Deep Learning  
 🚀 Building real-world AI projects and preparing for internships (Fall '25)
@@ -37,7 +39,8 @@
 - 🧠 Generative AI — Prompt engineering, Transformers, LLMs  
 - 🗣️ NLP — NER, HMMs, CRFs, Sequence models  
 - 📊 Power BI — Interactive dashboards for storytelling  
-
+- ☁️ Cloud & Deployment — Docker, AWS EC2, S3, and Render  
+- 🧩 System design & resume polishing for internships
 
 ---
 
