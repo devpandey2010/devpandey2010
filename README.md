@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Dev!
 
-<!--
-**devpandey2010/devpandey2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Chemical Engineering undergrad | 🧠 AI/ML Enthusiast | 📊 Data Science Explorer  
+🔍 Currently diving into Generative AI, NLP, and Deep Learning  
+🚀 Building real-world AI projects and preparing for internships (Fall '25)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Data Science ...
-- 🌱 I’m currently learning .Machine Learning..
-- 👯 I’m looking to collaborate on Data Science Projects..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+- 🛡️ [Phishing Classifier](https://github.com/devpandey2010/phishing-classifier) — 99% accurate XGBoost model, Flask backend, Dockerized, deployed on AWS  
+- 🐶 [Dog vs Cat Classifier](https://github.com/devpandey2010/dog-vs-cat-classifier) — CNN-based image classifier with Streamlit interface  
+- 📊 [EDA Dashboard](https://github.com/devpandey2010) — Visual analytics dashboard built with Power BI (coming soon)
+
+---
+
+### 📈 GitHub Stats
+
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpandey2010&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devpandey2010&layout=compact&theme=radical)
+
+---
+
+### 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devpandey2010)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=github)](https://your-portfolio-link.com)
+
+---
+
+🔭 *Open to AI/ML internships and collaborations. Let’s build something impactful together!*
