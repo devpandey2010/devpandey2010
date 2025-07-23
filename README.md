@@ -33,9 +33,7 @@
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devpandey2010)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=github)](https://your-portfolio-link.com)
-
+[![LinkedIn](https://www.linkedin.com/in/dev-pandey-a5871627a/) 
 ---
 
 🔭 *Open to AI/ML internships and collaborations. Let’s build something impactful together!*
