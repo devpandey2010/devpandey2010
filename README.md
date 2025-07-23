@@ -4,6 +4,8 @@
 🔍 Currently diving into Generative AI, NLP, and Deep Learning  
 🚀 Building real-world AI projects and preparing for internships (Fall '25)
 
+![Visitors](https://komarev.com/ghpvc/?username=devpandey2010&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ### 🛠 Tech Stack
@@ -18,13 +20,28 @@
 ---
 
 ### 🌟 Featured Projects
-- 🛡️ [Phishing Classifier](https://github.com/devpandey2010/phishing-classifier) — 99% accurate XGBoost model, Flask backend, Dockerized, deployed on AWS  
-- 🐶 [Dog vs Cat Classifier](https://github.com/devpandey2010/dog-vs-cat-classifier) — CNN-based image classifier with Streamlit interface  
-- 📊 [EDA Dashboard](https://github.com/devpandey2010) — Visual analytics dashboard built with Power BI (coming soon)
+
+- 🛡️ [Phishing Website Classifier](https://github.com/devpandey2010/FULL-STACK-MACHINE-LEARNING)  
+  End-to-end phishing detector using XGBoost, Flask, Docker, and AWS | Achieved 99% accuracy | Modular ML pipeline
+
+- 🌲 [Green Vision – Forest Cover Type Prediction](https://github.com/devpandey2010/FULL-Stack-GreenVision-Machine-Learning-Project)  
+  End-to-end ML project for forest cover classification | Data cleaning, feature engineering, modeling
+
+- 🐶 [Dog vs Cat Classifier](https://github.com/devpandey2010/dog-cat-classifier)  
+  CNN-based image classifier built with TensorFlow and Streamlit | Real-time predictions with clean UI
 
 ---
 
-### 📈 GitHub Stats
+### 📚 Currently Learning
+
+- 🧠 Generative AI — Prompt engineering, Transformers, LLMs  
+- 🗣️ NLP — NER, HMMs, CRFs, Sequence models  
+- 📊 Power BI — Interactive dashboards for storytelling  
+
+
+---
+
+### 📊 GitHub Stats
 
 ![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpandey2010&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devpandey2010&layout=compact&theme=radical)
@@ -33,7 +50,8 @@
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://www.linkedin.com/in/dev-pandey-a5871627a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-pandey-a5871627a/)
+
 ---
 
 🔭 *Open to AI/ML internships and collaborations. Let’s build something impactful together!*
