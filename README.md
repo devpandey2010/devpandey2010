@@ -11,7 +11,11 @@
 - 🎓 I'm a Chemical Engineering undergrad diving deep into Machine Learning, Deep Learning & NLP
 - 🛠️ I build end-to-end ML solutions and actively share learning through clean code and notebooks
 - 📚 Currently learning Generative AI & Power BI
-- 🔍 Open to ML, AI & Data Science internships (Aug–Nov 2025)
+- Upcoming Projects :
+-                    1.Lung Disease Detection(Full stack using CNN .....Deployed),
+-                    2.Audio Detection (Full stack end to end using NLP....Pipelines),
+-                    3.Hybrid Nanofillers (Chemical + Machine Learning)
+- 🔍 Open to ML, AI & Data Science internships 
 - 🌱 Passionate about solving real-world problems with data and intelligence
 
 ---
