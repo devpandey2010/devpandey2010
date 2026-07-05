@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Final-year **B.Tech in Chemical Engineering** at **BIT Mesra** (CGPA: 8.62/10)
-- 📊 **Data Analytics Intern at Tata Steel**, working on operational analytics across plant and enterprise systems
+- 📊 Currently a **Data Analytics Intern at Tata Steel**, working on operational analytics across plant and enterprise systems
 - 🔍 I like turning messy operational data into hypotheses I can actually test — and numbers stakeholders can act on
 - 🎯 Targeting **Data Analyst / Business Analyst / Product Analyst** roles at product and analytics-driven companies
 - 🧠 Background in Chemical Engineering means I bring process-thinking and root-cause rigor to analytics problems, not just dashboards
@@ -60,6 +60,7 @@ Full-stack ML project to detect phishing websites from URL, domain, and content-
 ### 🛠️ Skills
 
 **Analytics & Querying:** SQL (Window Functions, CTEs, Query Optimization) · Python (Pandas, NumPy) · Statistics (Hypothesis Testing, ANOVA, Regression)
+**Machine Learning:** Scikit-learn · XGBoost · Logistic Regression · Naive Bayes · Feature Engineering · Model Evaluation
 **Visualization:** Power BI (DAX, Data Modeling) · Excel · Matplotlib/Seaborn
 **Tools:** Git/GitHub · Docker · MongoDB · AWS S3 · Flask
 
@@ -67,7 +68,7 @@ Full-stack ML project to detect phishing websites from URL, domain, and content-
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/dev-pandey-a5871627a" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-pandey-a5871627a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
