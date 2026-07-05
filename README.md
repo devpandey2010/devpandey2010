@@ -60,8 +60,11 @@ Full-stack ML project to detect phishing websites from URL, domain, and content-
 ### 🛠️ Skills
 
 **Analytics & Querying:** SQL (Window Functions, CTEs, Query Optimization) · Python (Pandas, NumPy) · Statistics (Hypothesis Testing, ANOVA, Regression)
+
 **Machine Learning:** Scikit-learn · XGBoost · Logistic Regression · Naive Bayes · Feature Engineering · Model Evaluation
+
 **Visualization:** Power BI (DAX, Data Modeling) · Excel · Matplotlib/Seaborn
+
 **Tools:** Git/GitHub · Docker · MongoDB · AWS S3 · Flask
 
 ---
